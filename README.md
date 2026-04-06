@@ -3,6 +3,8 @@
 
 A creative, interactive portfolio built as a static HTML experience and deployed on Hugging Face Spaces.
 
+[![Live Portfolio](https://img.shields.io/badge/Live%20Portfolio-Hugging%20Face-ffcc4d?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/ByteWithShub/Portfolio) 
+
 ## Overview
 
 This portfolio is designed as more than a simple project gallery. It presents my work, process, and technical identity through an immersive interface that blends design, motion, and systems thinking.
